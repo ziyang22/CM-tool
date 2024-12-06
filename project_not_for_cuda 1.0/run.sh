@@ -1,3 +1,5 @@
+# 使用这个脚本时，你需要在bash终端环境中【最简单的bash环境是git bash】
+
 #!/bin/powershell
 # 转到build目录下
 cd build
