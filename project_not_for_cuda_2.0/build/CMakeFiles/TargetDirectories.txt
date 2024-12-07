@@ -1,0 +1,3 @@
+D:/a_study/code_vs/CM-tool/project_not_for_cuda_2.0/build/CMakeFiles/app.dir
+D:/a_study/code_vs/CM-tool/project_not_for_cuda_2.0/build/CMakeFiles/edit_cache.dir
+D:/a_study/code_vs/CM-tool/project_not_for_cuda_2.0/build/CMakeFiles/rebuild_cache.dir
