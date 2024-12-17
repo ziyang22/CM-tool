@@ -4,7 +4,7 @@ Code monitoring tool , which is created to monitor the operation of the optimiza
 
 > 如果您要下载此文件的话，点击右上角的code-download即可
 > 
-> 但是！根据我多年的经验，直接下载可能很不稳定，会花费您大量尊贵的时间
+> 但是！根据我多年的经验，直接下载可能很不稳定，会花费您大量珍贵的时间
 > 
 > 根据我多年的经验
 > 
